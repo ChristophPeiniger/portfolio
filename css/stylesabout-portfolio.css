@@ -102,6 +102,12 @@
       margin-top: 0px;
     }
 
+    .column-portfolio ul {
+      color:white;
+      font-size: larger;
+      font-weight: bold;
+      text-decoration: underline;
+    }
     .column-portfolio a {
       color: aqua;
     }
