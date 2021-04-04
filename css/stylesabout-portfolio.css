@@ -12,7 +12,17 @@
 
 
 
-.background {
+.background-about {
+  background-image: url(../images/chis-bike.jpg);
+  background-color: black;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 949px;
+  width: auto;
+  background-size: 100% 100%;
+}
+
+.background-portfolio {
   background-image: url(../images/chis-bike.jpg);
   background-color: black;
   background-position: center;
@@ -23,12 +33,11 @@
 }
 
 
-
 .column {
   float: left;
   width: 100%;
   height: 100%; 
-  max-width: 20%;
+  max-width: 21%;
   max-height: 500px;
   margin: 0;
   padding: 30px;
