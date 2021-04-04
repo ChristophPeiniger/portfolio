@@ -11,3 +11,12 @@
 }
 
 
+.background {
+  background-image: url(../images/chis-bike.jpg);
+  background-color: black;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 949px;
+  width: auto;
+  background-size: 100% 100%;
+}
