@@ -1,0 +1,13 @@
+.welcome {
+  height: 150px;
+  text-align: center;
+  top: 0;
+}
+
+.welcome h1 {
+  text-decoration: underline;
+  font-size: 50px;
+  top: 0px;
+}
+
+
