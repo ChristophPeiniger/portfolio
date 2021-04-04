@@ -44,7 +44,6 @@
   background-size: 100% 100%;
   background-repeat: no-repeat;
   color: antiquewhite;
-  background-image: url(../images/natur.jpeg);
 }
   
   .column h1 {
@@ -79,11 +78,11 @@
     background-size: 100% 100%;
     background-repeat: no-repeat;
     color: antiquewhite;
-    background-image: url(../images/natur.jpeg);
   }
     
     .column-portfolio h1 {
-      color: black;
+      color: antiquewhite;
+      background-color: red;
       text-align: center;
       display: table;
       margin: 0px auto;
@@ -91,16 +90,20 @@
     }
     
     .column-portfolio h2 {
-      background-color: rgba(100, 100, 100, 0.8);
-      text-align: center;
-      display: table;
-      margin: 0px auto; 
-      padding: 10px;
+      background-color: rgba(80, 80, 80, 0.9);
+      padding-bottom: 0px;
+      margin-bottom: 0px;
     }
     
     .column-portfolio p {
-      background-color: rgba(100, 100, 100, 0.8);
+      background-color: rgba(80, 80, 80, 0.9);
       float: left;
+      padding-top: 5px;
+      margin-top: 0px;
+    }
+
+    .column-portfolio a {
+      color: aqua;
     }
 
 
